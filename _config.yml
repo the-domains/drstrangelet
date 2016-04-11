@@ -1,0 +1,28 @@
+name: Dr Strangelet
+favicon: null
+layout_spectrum: 0.9083311003632843
+typography_spectrum: 0.24348478950560093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2753865148406476
+  lightness: 0.08485283120535314
+  saturation: 0.720541991526261
+  rhythmicContrast: 0.2744029874447733
+purpose: []
