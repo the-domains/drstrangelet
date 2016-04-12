@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dr Strangelet | Space Baron & Maker of Things]]></title>
         <description><![CDATA[Dr Strangelet | Space Baron & Maker of Things]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/drstrangelet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 02:43:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 02:49:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/drstrangelet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62709519-e5e4-4e37-8ad5-73facc3b144a.png">]]></description>
+            <link>https://thegrid.ai/drstrangelet/43caea2b-4a85-43f3-a290-a7e55cbdcf1e/index.html</link>
+            <guid isPermaLink="false">43caea2b-4a85-43f3-a290-a7e55cbdcf1e</guid>
+            <pubDate>Tue, 12 Apr 2016 02:49:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4da75766-0808-43ec-93c7-59360063f28f.png">]]></description>
-            <link>undefined7ff183a2-3eb4-4a90-99fa-5ddfbaa24db7/index.html</link>
+            <link>https://thegrid.ai/drstrangelet/7ff183a2-3eb4-4a90-99fa-5ddfbaa24db7/index.html</link>
             <guid isPermaLink="false">7ff183a2-3eb4-4a90-99fa-5ddfbaa24db7</guid>
             <pubDate>Tue, 12 Apr 2016 02:43:01 GMT</pubDate>
         </item>
