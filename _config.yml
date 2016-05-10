@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.720541991526261
   brandStrength: 0.5770609
-  lightness: 0.08485283120535314
+  rhythmicContrast: 0.2744029874447733
   brandColors:
     - '#010001'
     - '#304B5B'
     - '#B44203'
     - '#FCFFFB'
     - '#788891'
-  rhythmicContrast: 0.2744029874447733
+  lightness: 0.08485283120535314
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Dr Strangelet
 favicon: null
+name: Dr Strangelet
 opengraph:
   image: null
   type: null
